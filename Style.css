@@ -34,5 +34,10 @@
 }
 .header1 {
     text-align: center;
-    font-size: 30px;
-
+    font-size: 40px;
+  
+}
+.box4{ 
+    background-color: blue;
+    width: 200px;
+}
