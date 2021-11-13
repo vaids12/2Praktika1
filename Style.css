@@ -1,0 +1,38 @@
+.header {
+    
+
+    text-align: center;
+    font-size: 45px;
+}
+
+.box1 {
+    padding: 10px;
+    display: inline-block;
+    width: 32%;
+    background-color: blue;
+    color: white;
+    text-align: left;
+
+}
+
+.box2 {
+    display: inline-block;
+    padding: 10px;
+    width: 32%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.box3 {
+    display: inline-block;
+    padding: 10px;
+    width: 32%;
+    background-color: blue;
+    color: white;
+    text-align: right;
+}
+.header1 {
+    text-align: center;
+    font-size: 30px;
+
