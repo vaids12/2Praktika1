@@ -62,10 +62,13 @@ img {
 
 .coupon {
     text-align: center;
-    font-weight: bold;
+
     height: 150px;
-    width: 92%;
-    border: dashed 10px;
+    width: 90%;
+    border: dashed 8px black;
+    font-weight: bolder;
+    color: red;
+    font-size: 22px;
 }
 
 .box2 {
@@ -82,17 +85,17 @@ img {
     width: 670px;
     display: inline-block;
     vertical-align: top;
-     font-weight: bolder;
-     font-size: 22px;
+    font-weight: bolder;
+    font-size: 22px;
 }
 
 .header3 {
-        color: red;
-    }
-   
+    color: red;
+}
+
 
 
 .name {
- 
+
     text-align: center;
 }
