@@ -65,7 +65,7 @@ img {
     font-weight: bold;
     height: 150px;
     width: 92%;
-    border: dotted;
+    border: dashed 10px;
 }
 
 .box2 {
@@ -73,6 +73,8 @@ img {
     height: 450px;
     display: inline-block;
     vertical-align: top;
+    font-weight: bolder;
+    font-size: 22px;
 }
 
 .box3 {
@@ -80,13 +82,17 @@ img {
     width: 670px;
     display: inline-block;
     vertical-align: top;
+     font-weight: bolder;
+     font-size: 22px;
 }
 
 .header3 {
-    color: red;
-}
+        color: red;
+    }
+   
+
 
 .name {
-    font-weight: bold;
+ 
     text-align: center;
 }
